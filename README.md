@@ -1,4 +1,4 @@
-Hi, my name is Chris and I am a 4th year student at SF State majoring in computer science! 
+Hi, my name is Chris and I am an undergraduate student at SF State majoring in computer science! 
 Here are some of the projects that I have worked on.
 
 <!---
